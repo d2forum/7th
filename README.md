@@ -20,22 +20,35 @@
 
 -  《广告投放代码和创意代码持续优化》 - 李穆（李牧）
 
-## 《低碳的终端Web开发》－　李晶（拔赤）&& 王卓（完颜）
+## 《低碳的终端Web开发》
 
-[PPT 地址](https://github.com/d2forum/7th/blob/master/PPT/%E7%A7%BB%E5%8A%A8Web%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5--%E6%8B%94%E8%B5%A4%26%E5%AE%8C%E9%A2%9C.pdf)
+- 演讲嘉宾：李晶（拔赤）&& 王卓（完颜）
 
-## 《JS 开放平台 & JS SDK》 - 周骞（清羽）&& 杨周璇（沉鱼）
+- [PPT 地址](https://github.com/d2forum/7th/blob/master/PPT/%E7%A7%BB%E5%8A%A8Web%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5--%E6%8B%94%E8%B5%A4%26%E5%AE%8C%E9%A2%9C.pdf)
 
-## 《这些年，我们一起开发过的 Node.js 服务端 JavaScript Web 开发》- 田永强（朴灵）
+## 《JS 开放平台 & JS SDK》 
 
-## 《阅读类 Web 应用的前端技术探索》- 石岩
+- 演讲嘉宾：周骞（清羽）&& 杨周璇（沉鱼）
 
-## 《以 Web 的名义，向 App 告白》- 陈虹如
+## 《这些年，我们一起开发过的 Node.js 服务端 JavaScript Web 开发》
 
-## 《百度前端集成解决方案》- 雷志兴
+- 演讲嘉宾：田永强（朴灵）
 
-[PPT 地址](https://github.com/d2forum/7th/blob/master/PPT/%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E9%9B%86%E6%88%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E9%9B%B7%E5%BF%97%E5%85%B4.pdf)
+## 《阅读类 Web 应用的前端技术探索》
 
-## 《编辑器设计思路 —— KindEditor & KISSY Editor 大规模组件的模块化开发》- 罗龙浩 && 何一鸣（承玉）
+- 演讲嘉宾：石岩
+
+## 《以 Web 的名义，向 App 告白》
+
+- 演讲嘉宾：陈虹如
+
+## 《百度前端集成解决方案》
+
+- 演讲嘉宾：雷志兴
+- [PPT 地址](https://github.com/d2forum/7th/blob/master/PPT/%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E9%9B%86%E6%88%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-%E9%9B%B7%E5%BF%97%E5%85%B4.pdf)
+
+## 《编辑器设计思路 —— KindEditor & KISSY Editor 大规模组件的模块化开发》
+
+- 演讲嘉宾：罗龙浩 && 何一鸣（承玉）
 
 
