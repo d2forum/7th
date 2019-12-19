@@ -1,5 +1,7 @@
 # 第七届D2前端技术论坛「奔跑Run！—— 在大前端路上」
 
+![https://gw.alicdn.com/tfs/TB1gke_q8v0gK0jSZKbXXbK2FXa-410-60.png](https://gw.alicdn.com/tfs/TB1gke_q8v0gK0jSZKbXXbK2FXa-410-60.png)
+
 ## 前端性能监控与优化专场
 - 《Qzone 前端 CPU 性能优化》 - 郭润增
 
